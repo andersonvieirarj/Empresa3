@@ -2,7 +2,12 @@ import java.util.Scanner;
 
 public class Principal {
     public static void main(String[] args) {
+
+        //Funcionario func = new Funcionario();
+
+
         Scanner leitura = new Scanner(System.in);
+
         int op=0;
         while (op != 4) {
         System.out.println("Qual opção você deseja?");
